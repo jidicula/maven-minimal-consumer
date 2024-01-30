@@ -1,3 +1,5 @@
+<details><summary>CLI logging</summary>
+<p>
 [DEBUG] Repositories (dependencies): [github (https://maven.pkg.github.com/jidicula/maven-minimal, default, releases+snapshots), central (https://repo.maven.apache.org/maven2, default, releases)]
 [DEBUG] Using transporter HttpTransporter with priority 5.0 for https://maven.pkg.github.com/jidicula/maven-minimal
 [DEBUG] Using connector BasicRepositoryConnector with priority 0.0 for https://maven.pkg.github.com/jidicula/maven-minimal with username=jidicula, password=***
@@ -19,7 +21,8 @@ Downloaded from github: https://maven.pkg.github.com/jidicula/maven-minimal/com/
 [DEBUG] java.vendor.url.bug: https://github.com/Homebrew/homebrew-core/issues
 [DEBUG] java.vendor.url: https://github.com/Homebrew/homebrew-core/issues
 [DEBUG] java.vendor.url.bug: https://github.com/Homebrew/homebrew-core/issues
-
+</p>
+</details>
 
 ## Steps
 1. Download `metadata.xml` for version: https://maven.pkg.github.com/jidicula/maven-minimal/com/mycompany/app/maven-minimal/1.0-SNAPSHOT/maven-metadata.xml
